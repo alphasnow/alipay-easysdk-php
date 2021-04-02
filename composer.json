@@ -2,7 +2,6 @@
 	"name":"alphasnow/alipay-easysdk-php",
 	"description":"支付宝官方 Alipay Easy SDK",
 	"type":"library",
-	"version":"2.2.0",
 	"authors":[
 		{
 			"name":"junying.wjy",
@@ -34,7 +33,7 @@
 		"ext-openssl":"*",
 		"pimple/pimple": "^3.0",
 		"xin/container":"^2.0.1",
-		"guzzlehttp/guzzle":">=6.3",
+		"guzzlehttp/guzzle":"^6.3",
 		"psr/log": "^1.1",
 		"ext-xmlwriter": "*",
 		"songshenzong/support": "^2.0",
