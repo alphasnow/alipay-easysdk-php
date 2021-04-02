@@ -1,5 +1,9 @@
-# Alipay SDK PHP  
+# Alipay SDK PHP 
+
+[![Latest Stable Version](https://poser.pugx.org/alphasnow/alipay-easysdk-php/v/stable)](https://packagist.org/packages/alphasnow/alipay-easysdk-php)
+
 本扩展基于[Aliyun SDK](https://github.com/alipay/alipay-easysdk),主要做了  
+
 1. 去除其他语言代码包,制作只有`PHP`扩展的`composer`依赖包
 2. 添加`.gitattributes`用于安装扩展时忽略`test/`文件夹  
 3. 本扩展版本与[Aliyun SDK](https://github.com/alipay/alipay-easysdk)保持一致

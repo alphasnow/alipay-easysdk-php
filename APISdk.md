@@ -1,15 +1,3 @@
-## Aliyun SDK PHP
-本扩展基于[Aliyun SDK](https://github.com/alipay/alipay-easysdk),主要做了  
-1. 去除其他语言代码包,制作只有`PHP`扩展的`composer`依赖包
-2. 添加`.gitattributes`用于安装扩展时忽略`test/`文件夹  
-3. 本扩展版本与[Aliyun SDK](https://github.com/alipay/alipay-easysdk)保持一致
-
-安装使用  
-```
-composer require alphasnow/alipay-easysdk-php
-```
-
-## Aliyun SDK
 [![Latest Stable Version](https://poser.pugx.org/alipaysdk/easysdk/v/stable)](https://packagist.org/packages/alipaysdk/easysdk)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falipay%2Falipay-easysdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falipay%2Falipay-easysdk?ref=badge_shield)
 
