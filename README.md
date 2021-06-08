@@ -2,7 +2,7 @@
 
 [![Latest Stable Version](https://poser.pugx.org/alphasnow/alipay-easysdk-php/v/stable)](https://packagist.org/packages/alphasnow/alipay-easysdk-php)
 
-本扩展基于[Alipay Easy SDK](https://github.com/alipay/alipay-easysdk)
+基于[Alipay Easy SDK](https://github.com/alipay/alipay-easysdk)
 
 主要修改:  
 1. 精简其他语言代码包,只保留`PHP`的`composer`依赖包
